@@ -10,7 +10,7 @@ The examples include switching between architectures, changing model architectur
 There are 16 classes, common data visualizations such as scatterplots, heatmaps and so on.
 This is a small but balanced dataset with around 200 images per class
 
-The data is split into 3 folders; train, validation and test, each containing 2049,684 and 683 respectively.
+The data is split into 3 folders; train, validation and test, each containing 2049,684 and 683 images respectively.
 
 
 ## Pretrained vs training from scratch
